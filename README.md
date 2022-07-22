@@ -1,5 +1,5 @@
-### Hi there 👋
-# My name is Jean bulambo and I am software developer
+### HELLO DEVS 👋
+## My name is Jean bulambo and I am software developer
 
 Currently studying new technologies in:
 
