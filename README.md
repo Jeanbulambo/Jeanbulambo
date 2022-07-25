@@ -1,6 +1,7 @@
-<h1 align="center">Hi dev👋, I'm Jean Bulambo</h1>
+<h1 align="center">Hi devs 👋, I'm Jean Bulambo. Glad to see you here</h1>
 
-<h3 align="center">A passionate frontend developer from DR. Congo</h3>
+<h2 align="center"> I am a full-stack software engineer. I love programming, computer networking and traveling.</h2>
+
 <h2></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanbulambo&label=Profile%20views&color=0e75b6&style=flat" alt="jeanbulambo" /> </p>
