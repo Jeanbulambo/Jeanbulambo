@@ -1,6 +1,6 @@
 <h1 align="center">Hi devs 👋, I'm Jean Bulambo. Glad to see you here</h1>
 
-<h2 align="center"> I am a full-stack software engineer. I love programming, computer networking and traveling.</h2>
+<h2 align="center"> I am a full-stack Developer</h2>
 
 <h2></h2>
 
